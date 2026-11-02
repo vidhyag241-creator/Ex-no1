@@ -53,16 +53,14 @@ END
 ```
 
 #### Output Table
+<img width="510" height="377" alt="image" src="https://github.com/user-attachments/assets/5a3c5ed7-7685-4552-9423-4abdad0009e8" />
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|       1200🔢       01         12
 
-|         1200                    |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="332" height="212" alt="image" src="https://github.com/user-attachments/assets/6dbeb9cb-fc21-4012-8e39-752df2c88f12" />
+
 
 ---
 
@@ -106,14 +104,17 @@ END
 
 
 #### Output Table
+<img width="466" height="253" alt="image" src="https://github.com/user-attachments/assets/1dbe5cf4-58a6-4982-84e7-9a91f14db31d" />
+
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |                         |                          |
 
 #### Manual Calculations
+<img width="397" height="198" alt="image" src="https://github.com/user-attachments/assets/170a7f44-5999-4efc-963b-f26c76bc2bb4" />
 
-(Add your calculation here)
+
 
 ---
 
@@ -156,11 +157,16 @@ END
 
 #### Output Table
 
+<img width="457" height="251" alt="image" src="https://github.com/user-attachments/assets/97a0acaa-ed88-4273-a8fd-c26c573d9aa9" />
+
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
 |                         |                          |
 
 #### Manual Calculations
+
+<img width="441" height="223" alt="image" src="https://github.com/user-attachments/assets/176c916d-c5d9-425a-8c9b-af95d30b84c5" />
+
 
 (Add your calculation here)
 
@@ -201,16 +207,22 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="472" height="282" alt="image" src="https://github.com/user-attachments/assets/fafbd1d8-dcc5-4414-ae95-4fe67b1bf8fb" />
+
+
+
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="358" height="135" alt="image" src="https://github.com/user-attachments/assets/a4204092-b646-4dda-86fd-509ba93e15eb" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+
+<img width="541" height="382" alt="image" src="https://github.com/user-attachments/assets/d4bb4d89-f806-4f6e-a3d8-6efc1dd78ce5" />
+
 
 
 
